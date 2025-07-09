@@ -1,6 +1,3 @@
-![cnn_architecture](https://github.com/user-attachments/assets/0233256e-ffeb-4d2f-bc06-dc1378082fa2)
-
-
 # CNN para CIFAR-10 con PyTorch
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
@@ -103,3 +100,6 @@ En Google Colab estos requisitos están preinstalados salvo `torchviz`:
 ## Créditos
 
 Desarrollado para propósitos educativos y de prototipado rápido en visión por computador, con enfoque en reproducibilidad y buenas prácticas de ingeniería de deep learning.
+
+![cnn_architecture](https://github.com/user-attachments/assets/0233256e-ffeb-4d2f-bc06-dc1378082fa2)
+
